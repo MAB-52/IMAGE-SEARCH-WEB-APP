@@ -22,7 +22,7 @@ Installation -
 
   Clone the repository
 
-    git clone https://github.com/your-username/image-search-web-app.git
+    git clone https://github.com/MAB-52/IMAGE-SEARCH-WEB-APP.git
 
   Navigate to the project directory
 
